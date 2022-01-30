@@ -1,2 +1,2 @@
 # Django
-All Django Projects
+All Django Projects new date

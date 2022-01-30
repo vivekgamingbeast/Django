@@ -1,2 +1,2 @@
 # Django
-All Django Projects new date
+All Django Projects new dateeee

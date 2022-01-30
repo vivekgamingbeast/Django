@@ -1,2 +1,2 @@
 # Django
-All Django Projects new dateeee
+All Django Projects new dateeeef
